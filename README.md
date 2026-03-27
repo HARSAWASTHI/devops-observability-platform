@@ -29,6 +29,8 @@ docker-compose up -d
 ```
 
 ## Dashboards
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/69e6ef7d-6052-412e-877e-96c6e12a1ad2" />
+
 
 
 ## Issues Faced
